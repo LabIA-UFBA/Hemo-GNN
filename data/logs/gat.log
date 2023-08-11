@@ -1,0 +1,65 @@
+2022-11-03 16:24:14.359 | INFO     | datasets:__init__:32 - read, processind and cread folds...
+2022-11-03 16:24:14.449 | INFO     | datasets:__process_data:104 - Class structure: Counter({'Mild_Moderate': 233, 'Severe': 115})
+2022-11-03 16:24:14.509 | INFO     | datasets:__process_data:160 - train: (290,), test: (58,)
+2022-11-03 16:24:14.509 | INFO     | datasets:__process_data:161 - ------------------------------
+2022-11-03 16:24:14.527 | INFO     | datasets:__init__:49 - Done, processing in 0:00:00.
+2022-11-03 16:24:28.277 | INFO     | __main__:run_experiment:78 - Fold 0 acc: 0.27 f1: 0.21
+2022-11-03 16:24:41.593 | INFO     | __main__:run_experiment:78 - Fold 1 acc: 0.34 f1: 0.25
+2022-11-03 16:24:55.112 | INFO     | __main__:run_experiment:78 - Fold 2 acc: 0.41 f1: 0.29
+2022-11-03 16:25:09.067 | INFO     | __main__:run_experiment:78 - Fold 3 acc: 0.41 f1: 0.29
+2022-11-03 16:25:23.575 | INFO     | __main__:run_experiment:78 - Fold 4 acc: 0.39 f1: 0.28
+2022-11-03 16:25:37.793 | INFO     | __main__:run_experiment:78 - Fold 5 acc: 0.45 f1: 0.31
+2022-11-03 16:25:37.793 | INFO     | __main__:run_experiment:80 - ------------------------------
+2022-11-03 16:25:37.793 | INFO     | __main__:run_experiment:81 - Summary: mean acc: 0.38 f1: 0.27
+2022-11-04 11:04:45.336 | INFO     | datasets:__init__:32 - read, processind and cread folds...
+2022-11-04 11:04:45.608 | INFO     | datasets:__process_data:104 - Class structure: Counter({'Mild_Moderate': 233, 'Severe': 115})
+2022-11-04 11:04:45.678 | INFO     | datasets:__process_data:160 - train: (290,), test: (58,)
+2022-11-04 11:04:45.678 | INFO     | datasets:__process_data:161 - ------------------------------
+2022-11-04 11:04:46.254 | INFO     | datasets:__init__:49 - Done, processing in 0:00:00.
+2022-11-04 11:05:01.715 | INFO     | __main__:run_experiment:78 - Fold 0 acc: 0.27 f1: 0.21
+2022-11-04 11:05:15.155 | INFO     | __main__:run_experiment:78 - Fold 1 acc: 0.34 f1: 0.25
+2022-11-04 11:05:28.587 | INFO     | __main__:run_experiment:78 - Fold 2 acc: 0.41 f1: 0.29
+2022-11-04 11:05:42.230 | INFO     | __main__:run_experiment:78 - Fold 3 acc: 0.41 f1: 0.29
+2022-11-04 11:05:56.280 | INFO     | __main__:run_experiment:78 - Fold 4 acc: 0.39 f1: 0.28
+2022-11-04 11:06:10.950 | INFO     | __main__:run_experiment:78 - Fold 5 acc: 0.45 f1: 0.31
+2022-11-04 11:06:10.950 | INFO     | __main__:run_experiment:80 - ------------------------------
+2022-11-04 11:06:10.950 | INFO     | __main__:run_experiment:81 - Summary: mean acc: 0.38 f1: 0.27
+2022-11-04 11:13:16.597 | INFO     | datasets:__init__:32 - read, processind and cread folds...
+2022-11-04 11:13:16.685 | INFO     | datasets:__process_data:104 - Class structure: Counter({'Mild_Moderate': 233, 'Severe': 115})
+2022-11-04 11:13:16.744 | INFO     | datasets:__process_data:160 - train: (290,), test: (58,)
+2022-11-04 11:13:16.744 | INFO     | datasets:__process_data:161 - ------------------------------
+2022-11-04 11:13:16.762 | INFO     | datasets:__init__:49 - Done, processing in 0:00:00.
+2022-11-04 11:13:38.819 | INFO     | __main__:run_experiment:78 - Fold 0 acc: 0.73 f1: 0.42
+2022-11-04 11:14:01.172 | INFO     | __main__:run_experiment:78 - Fold 1 acc: 0.66 f1: 0.40
+2022-11-04 11:14:25.158 | INFO     | __main__:run_experiment:78 - Fold 2 acc: 0.59 f1: 0.37
+2022-11-04 11:14:49.731 | INFO     | __main__:run_experiment:78 - Fold 3 acc: 0.59 f1: 0.37
+2022-11-04 11:15:13.610 | INFO     | __main__:run_experiment:78 - Fold 4 acc: 0.61 f1: 0.38
+2022-11-04 11:15:37.216 | INFO     | __main__:run_experiment:78 - Fold 5 acc: 0.55 f1: 0.35
+2022-11-04 11:15:37.217 | INFO     | __main__:run_experiment:80 - ------------------------------
+2022-11-04 11:15:37.217 | INFO     | __main__:run_experiment:81 - Summary: mean acc: 0.62 f1: 0.38
+2022-11-04 11:17:17.881 | INFO     | datasets:__init__:32 - read, processind and cread folds...
+2022-11-04 11:17:17.975 | INFO     | datasets:__process_data:104 - Class structure: Counter({'Mild_Moderate': 233, 'Severe': 115})
+2022-11-04 11:17:18.039 | INFO     | datasets:__process_data:160 - train: (290,), test: (58,)
+2022-11-04 11:17:18.039 | INFO     | datasets:__process_data:161 - ------------------------------
+2022-11-04 11:17:18.057 | INFO     | datasets:__init__:49 - Done, processing in 0:00:00.
+2022-11-04 11:18:15.056 | INFO     | __main__:run_experiment:78 - Fold 1 acc: 0.27 f1: 0.21
+2022-11-04 11:19:11.827 | INFO     | __main__:run_experiment:78 - Fold 2 acc: 0.34 f1: 0.25
+2022-11-04 11:20:05.933 | INFO     | __main__:run_experiment:78 - Fold 3 acc: 0.41 f1: 0.29
+2022-11-04 11:21:11.730 | INFO     | __main__:run_experiment:78 - Fold 4 acc: 0.41 f1: 0.29
+2022-11-04 11:22:11.133 | INFO     | __main__:run_experiment:78 - Fold 5 acc: 0.39 f1: 0.28
+2022-11-04 11:23:03.656 | INFO     | __main__:run_experiment:78 - Fold 6 acc: 0.45 f1: 0.31
+2022-11-04 11:23:03.656 | INFO     | __main__:run_experiment:80 - ------------------------------
+2022-11-04 11:23:03.657 | INFO     | __main__:run_experiment:81 - Summary: mean acc: 0.38 f1: 0.27
+2022-11-04 11:23:45.883 | INFO     | datasets:__init__:32 - read, processind and cread folds...
+2022-11-04 11:23:45.988 | INFO     | datasets:__process_data:104 - Class structure: Counter({'Mild_Moderate': 233, 'Severe': 115})
+2022-11-04 11:23:46.048 | INFO     | datasets:__process_data:160 - train: (290,), test: (58,)
+2022-11-04 11:23:46.048 | INFO     | datasets:__process_data:161 - ------------------------------
+2022-11-04 11:23:46.068 | INFO     | datasets:__init__:49 - Done, processing in 0:00:00.
+2022-11-04 11:24:16.272 | INFO     | __main__:run_experiment:78 - Fold 1 acc: 0.73 f1: 0.42
+2022-11-04 11:24:49.508 | INFO     | __main__:run_experiment:78 - Fold 2 acc: 0.66 f1: 0.40
+2022-11-04 11:25:18.518 | INFO     | __main__:run_experiment:78 - Fold 3 acc: 0.59 f1: 0.37
+2022-11-04 11:25:55.301 | INFO     | __main__:run_experiment:78 - Fold 4 acc: 0.59 f1: 0.37
+2022-11-04 11:26:28.648 | INFO     | __main__:run_experiment:78 - Fold 5 acc: 0.61 f1: 0.38
+2022-11-04 11:27:03.572 | INFO     | __main__:run_experiment:78 - Fold 6 acc: 0.55 f1: 0.35
+2022-11-04 11:27:03.573 | INFO     | __main__:run_experiment:80 - ------------------------------
+2022-11-04 11:27:03.573 | INFO     | __main__:run_experiment:81 - Summary: mean acc: 0.62 f1: 0.38

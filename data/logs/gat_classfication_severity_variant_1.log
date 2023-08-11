@@ -1,0 +1,75 @@
+2023-01-16 17:35:34.025 | INFO     | datasets:__init__:32 - read, processind and cread folds...
+2023-01-16 17:35:34.094 | INFO     | datasets:__process_data:105 - Class structure: Counter({'Mild_Moderate': 233, 'Severe': 115})
+2023-01-16 17:35:34.167 | INFO     | datasets:__process_data:161 - train: (290,), test: (58,)
+2023-01-16 17:35:34.167 | INFO     | datasets:__process_data:162 - ------------------------------
+2023-01-16 17:35:34.426 | INFO     | datasets:__init__:50 - Done, processing in 0:00:00.
+2023-01-16 17:35:58.284 | INFO     | __main__:run_experiment:93 - Fold 1 acc: 0.73 f1: 0.42
+2023-01-16 17:36:22.116 | INFO     | __main__:run_experiment:93 - Fold 2 acc: 0.66 f1: 0.40
+2023-01-16 17:36:45.443 | INFO     | __main__:run_experiment:93 - Fold 3 acc: 0.59 f1: 0.37
+2023-01-16 17:37:08.854 | INFO     | __main__:run_experiment:93 - Fold 4 acc: 0.59 f1: 0.37
+2023-01-16 17:37:32.538 | INFO     | __main__:run_experiment:93 - Fold 5 acc: 0.61 f1: 0.38
+2023-01-16 17:37:56.141 | INFO     | __main__:run_experiment:93 - Fold 6 acc: 0.55 f1: 0.35
+2023-01-16 17:37:56.142 | INFO     | __main__:run_experiment:95 - ------------------------------
+2023-01-16 17:37:56.142 | INFO     | __main__:run_experiment:96 - Summary: mean acc: 0.62 f1: 0.38
+2023-01-16 17:37:56.142 | DEBUG    | __main__:<module>:124 - acc = 0.6212121248245239: [0.7272727489471436, 0.6590909361839294, 0.5909090638160706, 0.5909090638160706, 0.6136363744735718, 0.5454545617103577]
+2023-01-16 17:37:56.142 | DEBUG    | __main__:<module>:124 - f1 = 0.382398819170021: [0.4210526315789474, 0.3972602739726027, 0.37142857142857144, 0.37142857142857144, 0.38028169014084506, 0.3529411764705882]
+2023-01-16 17:40:44.171 | INFO     | datasets:__init__:32 - read, processind and cread folds...
+2023-01-16 17:40:44.239 | INFO     | datasets:__process_data:105 - Class structure: Counter({'Mild_Moderate': 233, 'Severe': 115})
+2023-01-16 17:40:44.310 | INFO     | datasets:__process_data:161 - train: (290,), test: (58,)
+2023-01-16 17:40:44.310 | INFO     | datasets:__process_data:162 - ------------------------------
+2023-01-16 17:40:44.571 | INFO     | datasets:__init__:50 - Done, processing in 0:00:00.
+2023-01-16 17:41:08.317 | INFO     | __main__:run_experiment:93 - Fold 1 acc: 0.27 f1: 0.21
+2023-01-16 17:41:31.808 | INFO     | __main__:run_experiment:93 - Fold 2 acc: 0.34 f1: 0.25
+2023-01-16 17:41:55.447 | INFO     | __main__:run_experiment:93 - Fold 3 acc: 0.41 f1: 0.29
+2023-01-16 17:42:18.949 | INFO     | __main__:run_experiment:93 - Fold 4 acc: 0.41 f1: 0.29
+2023-01-16 17:42:42.371 | INFO     | __main__:run_experiment:93 - Fold 5 acc: 0.39 f1: 0.28
+2023-01-16 17:43:05.348 | INFO     | __main__:run_experiment:93 - Fold 6 acc: 0.45 f1: 0.31
+2023-01-16 17:43:05.348 | INFO     | __main__:run_experiment:95 - ------------------------------
+2023-01-16 17:43:05.348 | INFO     | __main__:run_experiment:96 - Summary: mean acc: 0.38 f1: 0.27
+2023-01-16 17:43:05.348 | DEBUG    | __main__:<module>:124 - acc = 0.3787878801425298: [0.27272728085517883, 0.34090909361839294, 0.40909090638160706, 0.40909090638160706, 0.3863636255264282, 0.4545454680919647]
+2023-01-16 17:43:05.348 | DEBUG    | __main__:<module>:124 - f1 = 0.2733927813836324: [0.21428571428571427, 0.2542372881355932, 0.2903225806451613, 0.2903225806451613, 0.27868852459016397, 0.3125]
+2023-01-18 18:02:09.791 | INFO     | datasets:__init__:32 - read, processind and cread folds...
+2023-01-18 18:02:09.860 | INFO     | datasets:__process_data:105 - Class structure: Counter({'Mild_Moderate': 233, 'Severe': 115})
+2023-01-18 18:02:09.932 | INFO     | datasets:__process_data:161 - train: (290,), test: (58,)
+2023-01-18 18:02:09.932 | INFO     | datasets:__process_data:162 - ------------------------------
+2023-01-18 18:02:10.191 | INFO     | datasets:__init__:50 - Done, processing in 0:00:00.
+2023-01-18 18:02:33.814 | INFO     | __main__:run_experiment:93 - Fold 1 acc: 0.27 f1: 0.21
+2023-01-18 18:02:56.869 | INFO     | __main__:run_experiment:93 - Fold 2 acc: 0.34 f1: 0.25
+2023-01-18 18:03:19.668 | INFO     | __main__:run_experiment:93 - Fold 3 acc: 0.41 f1: 0.29
+2023-01-18 18:03:42.643 | INFO     | __main__:run_experiment:93 - Fold 4 acc: 0.41 f1: 0.29
+2023-01-18 18:04:05.559 | INFO     | __main__:run_experiment:93 - Fold 5 acc: 0.39 f1: 0.28
+2023-01-18 18:04:28.462 | INFO     | __main__:run_experiment:93 - Fold 6 acc: 0.45 f1: 0.31
+2023-01-18 18:04:28.462 | INFO     | __main__:run_experiment:95 - ------------------------------
+2023-01-18 18:04:28.462 | INFO     | __main__:run_experiment:96 - Summary: mean acc: 0.38 f1: 0.27
+2023-01-18 18:04:28.463 | DEBUG    | __main__:<module>:126 - acc = 0.38: [0.27, 0.34, 0.41, 0.41, 0.39, 0.45]
+2023-01-18 18:04:28.463 | DEBUG    | __main__:<module>:126 - f1 = 0.27: [0.21, 0.25, 0.29, 0.29, 0.28, 0.31]
+2023-01-18 18:04:38.469 | INFO     | datasets:__init__:32 - read, processind and cread folds...
+2023-01-18 18:04:38.538 | INFO     | datasets:__process_data:105 - Class structure: Counter({'Mild_Moderate': 233, 'Severe': 115})
+2023-01-18 18:04:38.609 | INFO     | datasets:__process_data:161 - train: (290,), test: (58,)
+2023-01-18 18:04:38.609 | INFO     | datasets:__process_data:162 - ------------------------------
+2023-01-18 18:04:38.870 | INFO     | datasets:__init__:50 - Done, processing in 0:00:00.
+2023-01-18 18:05:02.547 | INFO     | __main__:run_experiment:93 - Fold 1 acc: 0.27 f1: 0.21
+2023-01-18 18:05:26.033 | INFO     | __main__:run_experiment:93 - Fold 2 acc: 0.34 f1: 0.25
+2023-01-18 18:05:49.275 | INFO     | __main__:run_experiment:93 - Fold 3 acc: 0.41 f1: 0.29
+2023-01-18 18:06:12.408 | INFO     | __main__:run_experiment:93 - Fold 4 acc: 0.41 f1: 0.29
+2023-01-18 18:06:35.729 | INFO     | __main__:run_experiment:93 - Fold 5 acc: 0.39 f1: 0.28
+2023-01-18 18:06:59.268 | INFO     | __main__:run_experiment:93 - Fold 6 acc: 0.45 f1: 0.31
+2023-01-18 18:06:59.268 | INFO     | __main__:run_experiment:95 - ------------------------------
+2023-01-18 18:06:59.268 | INFO     | __main__:run_experiment:96 - Summary: mean acc: 0.38 f1: 0.27
+2023-01-18 18:06:59.268 | DEBUG    | __main__:<module>:126 - acc = 0.38: [0.27, 0.34, 0.41, 0.41, 0.39, 0.45]
+2023-01-18 18:06:59.269 | DEBUG    | __main__:<module>:126 - f1 = 0.27: [0.21, 0.25, 0.29, 0.29, 0.28, 0.31]
+2023-01-18 18:07:24.564 | INFO     | datasets:__init__:32 - read, processind and cread folds...
+2023-01-18 18:07:24.632 | INFO     | datasets:__process_data:105 - Class structure: Counter({'Mild_Moderate': 233, 'Severe': 115})
+2023-01-18 18:07:24.703 | INFO     | datasets:__process_data:161 - train: (290,), test: (58,)
+2023-01-18 18:07:24.704 | INFO     | datasets:__process_data:162 - ------------------------------
+2023-01-18 18:07:24.963 | INFO     | datasets:__init__:50 - Done, processing in 0:00:00.
+2023-01-18 18:07:48.348 | INFO     | __main__:run_experiment:93 - Fold 1 acc: 0.73 f1: 0.42
+2023-01-18 18:08:11.524 | INFO     | __main__:run_experiment:93 - Fold 2 acc: 0.66 f1: 0.40
+2023-01-18 18:08:34.735 | INFO     | __main__:run_experiment:93 - Fold 3 acc: 0.59 f1: 0.37
+2023-01-18 18:08:58.342 | INFO     | __main__:run_experiment:93 - Fold 4 acc: 0.59 f1: 0.37
+2023-01-18 18:09:21.544 | INFO     | __main__:run_experiment:93 - Fold 5 acc: 0.61 f1: 0.38
+2023-01-18 18:09:45.458 | INFO     | __main__:run_experiment:93 - Fold 6 acc: 0.55 f1: 0.35
+2023-01-18 18:09:45.458 | INFO     | __main__:run_experiment:95 - ------------------------------
+2023-01-18 18:09:45.458 | INFO     | __main__:run_experiment:96 - Summary: mean acc: 0.62 f1: 0.38
+2023-01-18 18:09:45.458 | DEBUG    | __main__:<module>:126 - acc = 0.62: [0.73, 0.66, 0.59, 0.59, 0.61, 0.55]
+2023-01-18 18:09:45.458 | DEBUG    | __main__:<module>:126 - f1 = 0.38: [0.42, 0.4, 0.37, 0.37, 0.38, 0.35]

@@ -1,0 +1,323 @@
+2022-11-04 12:20:32.471 | INFO     | datasets:__init__:32 - read, processind and cread folds...
+2022-11-04 12:20:32.561 | INFO     | datasets:__process_data:104 - Class structure: Counter({'Mild_Moderate': 233, 'Severe': 115})
+2022-11-04 12:20:32.621 | INFO     | datasets:__process_data:160 - train: (290,), test: (58,)
+2022-11-04 12:20:32.621 | INFO     | datasets:__process_data:161 - ------------------------------
+2022-11-04 12:20:32.638 | INFO     | datasets:__init__:49 - Done, processing in 0:00:00.
+2022-11-04 12:21:20.121 | INFO     | datasets:__init__:32 - read, processind and cread folds...
+2022-11-04 12:21:20.213 | INFO     | datasets:__process_data:104 - Class structure: Counter({'Mild_Moderate': 233, 'Severe': 115})
+2022-11-04 12:21:20.273 | INFO     | datasets:__process_data:160 - train: (290,), test: (58,)
+2022-11-04 12:21:20.273 | INFO     | datasets:__process_data:161 - ------------------------------
+2022-11-04 12:21:20.291 | INFO     | datasets:__init__:49 - Done, processing in 0:00:00.
+2022-11-04 12:21:29.763 | INFO     | __main__:run_experiment:77 - Fold 1 acc: 0.73 f1: 0.42
+2022-11-04 12:21:40.247 | INFO     | __main__:run_experiment:77 - Fold 2 acc: 0.66 f1: 0.40
+2022-11-04 12:21:50.612 | INFO     | __main__:run_experiment:77 - Fold 3 acc: 0.59 f1: 0.37
+2022-11-04 12:22:06.113 | INFO     | __main__:run_experiment:77 - Fold 4 acc: 0.59 f1: 0.37
+2022-11-04 12:22:20.040 | INFO     | datasets:__init__:32 - read, processind and cread folds...
+2022-11-04 12:22:20.134 | INFO     | datasets:__process_data:104 - Class structure: Counter({'Mild_Moderate': 233, 'Severe': 115})
+2022-11-04 12:22:20.196 | INFO     | datasets:__process_data:160 - train: (290,), test: (58,)
+2022-11-04 12:22:20.197 | INFO     | datasets:__process_data:161 - ------------------------------
+2022-11-04 12:22:20.215 | INFO     | datasets:__init__:49 - Done, processing in 0:00:00.
+2022-11-04 12:22:32.393 | DEBUG    | __main__:trainning:55 - Pred: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0]
+2022-11-04 12:22:32.395 | INFO     | __main__:run_experiment:79 - Fold 1 acc: 0.73 f1: 0.42
+2022-11-04 12:22:42.865 | DEBUG    | __main__:trainning:55 - Pred: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0]
+2022-11-04 12:22:42.866 | INFO     | __main__:run_experiment:79 - Fold 2 acc: 0.66 f1: 0.40
+2022-11-04 12:22:51.597 | DEBUG    | __main__:trainning:55 - Pred: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0]
+2022-11-04 12:22:51.599 | INFO     | __main__:run_experiment:79 - Fold 3 acc: 0.59 f1: 0.37
+2022-11-04 12:23:01.831 | DEBUG    | __main__:trainning:55 - Pred: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0]
+2022-11-04 12:23:01.833 | INFO     | __main__:run_experiment:79 - Fold 4 acc: 0.59 f1: 0.37
+2022-11-04 12:23:10.768 | DEBUG    | __main__:trainning:55 - Pred: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0]
+2022-11-04 12:23:10.769 | INFO     | __main__:run_experiment:79 - Fold 5 acc: 0.61 f1: 0.38
+2022-11-04 12:23:24.841 | DEBUG    | __main__:trainning:55 - Pred: [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 1 0]
+2022-11-04 12:23:24.842 | INFO     | __main__:run_experiment:79 - Fold 6 acc: 0.59 f1: 0.45
+2022-11-04 12:23:24.842 | INFO     | __main__:run_experiment:81 - ------------------------------
+2022-11-04 12:23:24.842 | INFO     | __main__:run_experiment:82 - Summary: mean acc: 0.63 f1: 0.40
+2022-11-04 12:24:55.939 | INFO     | datasets:__init__:32 - read, processind and cread folds...
+2022-11-04 12:24:56.030 | INFO     | datasets:__process_data:104 - Class structure: Counter({'Mild_Moderate': 233, 'Severe': 115})
+2022-11-04 12:24:56.091 | INFO     | datasets:__process_data:160 - train: (290,), test: (58,)
+2022-11-04 12:24:56.091 | INFO     | datasets:__process_data:161 - ------------------------------
+2022-11-04 12:24:56.109 | INFO     | datasets:__init__:49 - Done, processing in 0:00:00.
+2022-11-04 12:25:05.276 | DEBUG    | __main__:trainning:57 - Pred: [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 1 0 0 0 0 0]
+2022-11-04 12:25:05.277 | INFO     | __main__:run_experiment:81 - Fold 1 acc: 0.77 f1: 0.19
+2022-11-04 12:25:15.034 | DEBUG    | __main__:trainning:57 - Pred: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0]
+2022-11-04 12:25:15.035 | INFO     | __main__:run_experiment:81 - Fold 2 acc: 0.66 f1: 0.25
+2022-11-04 12:25:24.129 | DEBUG    | __main__:trainning:57 - Pred: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0]
+2022-11-04 12:25:24.130 | INFO     | __main__:run_experiment:81 - Fold 3 acc: 0.59 f1: 0.29
+2022-11-04 12:25:32.197 | DEBUG    | __main__:trainning:57 - Pred: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0]
+2022-11-04 12:25:32.198 | INFO     | __main__:run_experiment:81 - Fold 4 acc: 0.59 f1: 0.29
+2022-11-04 12:25:41.623 | INFO     | datasets:__init__:32 - read, processind and cread folds...
+2022-11-04 12:25:41.729 | INFO     | datasets:__process_data:104 - Class structure: Counter({'Mild_Moderate': 233, 'Severe': 115})
+2022-11-04 12:25:41.795 | INFO     | datasets:__process_data:160 - train: (290,), test: (58,)
+2022-11-04 12:25:41.796 | INFO     | datasets:__process_data:161 - ------------------------------
+2022-11-04 12:25:41.816 | INFO     | datasets:__init__:49 - Done, processing in 0:00:00.
+2022-11-04 12:25:51.469 | DEBUG    | __main__:trainning:57 - Pred: [1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1]
+2022-11-04 12:25:51.470 | INFO     | __main__:run_experiment:81 - Fold 1 acc: 0.73 f1: 0.42
+2022-11-04 12:26:01.056 | DEBUG    | __main__:trainning:57 - Pred: [1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1]
+2022-11-04 12:26:01.058 | INFO     | __main__:run_experiment:81 - Fold 2 acc: 0.66 f1: 0.40
+2022-11-04 12:26:11.625 | DEBUG    | __main__:trainning:57 - Pred: [1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1]
+2022-11-04 12:26:11.626 | INFO     | __main__:run_experiment:81 - Fold 3 acc: 0.59 f1: 0.37
+2022-11-04 12:26:21.117 | DEBUG    | __main__:trainning:57 - Pred: [1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1]
+2022-11-04 12:26:21.118 | INFO     | __main__:run_experiment:81 - Fold 4 acc: 0.59 f1: 0.37
+2022-11-04 12:26:31.364 | DEBUG    | __main__:trainning:57 - Pred: [1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1]
+2022-11-04 12:26:31.365 | INFO     | __main__:run_experiment:81 - Fold 5 acc: 0.61 f1: 0.38
+2022-11-04 12:26:43.416 | DEBUG    | __main__:trainning:57 - Pred: [1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1]
+2022-11-04 12:26:43.417 | INFO     | __main__:run_experiment:81 - Fold 6 acc: 0.55 f1: 0.35
+2022-11-04 12:26:43.417 | INFO     | __main__:run_experiment:83 - ------------------------------
+2022-11-04 12:26:43.417 | INFO     | __main__:run_experiment:84 - Summary: mean acc: 0.62 f1: 0.38
+2022-11-04 12:27:29.832 | INFO     | datasets:__init__:32 - read, processind and cread folds...
+2022-11-04 12:27:29.926 | INFO     | datasets:__process_data:104 - Class structure: Counter({'Mild_Moderate': 233, 'Severe': 115})
+2022-11-04 12:27:29.986 | INFO     | datasets:__process_data:160 - train: (290,), test: (58,)
+2022-11-04 12:27:29.986 | INFO     | datasets:__process_data:161 - ------------------------------
+2022-11-04 12:27:30.004 | INFO     | datasets:__init__:49 - Done, processing in 0:00:00.
+2022-11-04 12:27:45.725 | DEBUG    | __main__:trainning:57 - Pred: [1 0 1 0 1 1 0 1 1 0 1 1 1 1 1 0 1 1 1 1 1 1 1 0 1 0 1 0 1 1 1 0 0 1 1 0 0
+ 0 1 0 0 1 0 1]
+2022-11-04 12:27:45.726 | INFO     | __main__:run_experiment:81 - Fold 1 acc: 0.73 f1: 0.50
+2022-11-04 12:28:00.818 | DEBUG    | __main__:trainning:57 - Pred: [0 0 1 1 1 1 0 1 1 0 1 1 1 1 0 1 1 1 0 1 0 1 1 1 1 0 1 1 1 1 1 1 1 0 0 1 0
+ 1 1 1 1 1 0 0]
+2022-11-04 12:28:00.819 | INFO     | __main__:run_experiment:81 - Fold 2 acc: 0.66 f1: 0.50
+2022-11-04 12:28:13.617 | DEBUG    | __main__:trainning:57 - Pred: [1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 0 1 1 1 1 1]
+2022-11-04 12:28:13.618 | INFO     | __main__:run_experiment:81 - Fold 3 acc: 0.59 f1: 0.37
+2022-11-04 12:28:23.782 | DEBUG    | __main__:trainning:57 - Pred: [0 1 1 1 0 1 1 1 0 1 1 0 1 1 0 0 1 0 1 0 0 1 1 0 1 1 0 0 0 1 1 0 1 0 1 1 0
+ 1 1 1 1 0 0 1]
+2022-11-04 12:28:23.783 | INFO     | __main__:run_experiment:81 - Fold 4 acc: 0.59 f1: 0.50
+2022-11-04 12:28:32.318 | DEBUG    | __main__:trainning:57 - Pred: [1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1]
+2022-11-04 12:28:32.319 | INFO     | __main__:run_experiment:81 - Fold 5 acc: 0.61 f1: 0.28
+2022-11-04 12:28:45.580 | DEBUG    | __main__:trainning:57 - Pred: [1 1 1 0 0 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 0 1 0 1 1 1 1 1 1 1 1 1 0 1 1 0 1
+ 1 1 0 1 1 1 1]
+2022-11-04 12:28:45.581 | INFO     | __main__:run_experiment:81 - Fold 6 acc: 0.57 f1: 0.46
+2022-11-04 12:28:45.582 | INFO     | __main__:run_experiment:83 - ------------------------------
+2022-11-04 12:28:45.582 | INFO     | __main__:run_experiment:84 - Summary: mean acc: 0.62 f1: 0.43
+2022-11-04 12:29:41.977 | INFO     | datasets:__init__:32 - read, processind and cread folds...
+2022-11-04 12:29:42.068 | INFO     | datasets:__process_data:104 - Class structure: Counter({'Mild_Moderate': 233, 'Severe': 115})
+2022-11-04 12:29:42.136 | INFO     | datasets:__process_data:160 - train: (290,), test: (58,)
+2022-11-04 12:29:42.136 | INFO     | datasets:__process_data:161 - ------------------------------
+2022-11-04 12:29:42.155 | INFO     | datasets:__init__:49 - Done, processing in 0:00:00.
+2022-11-04 12:29:50.986 | DEBUG    | __main__:trainning:57 - Pred: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0]
+2022-11-04 12:29:50.987 | INFO     | __main__:run_experiment:81 - Fold 1 acc: 0.73 f1: 0.42
+2022-11-04 12:30:05.497 | DEBUG    | __main__:trainning:57 - Pred: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0]
+2022-11-04 12:30:05.498 | INFO     | __main__:run_experiment:81 - Fold 2 acc: 0.66 f1: 0.40
+2022-11-04 12:30:17.219 | DEBUG    | __main__:trainning:57 - Pred: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0]
+2022-11-04 12:30:17.220 | INFO     | __main__:run_experiment:81 - Fold 3 acc: 0.59 f1: 0.37
+2022-11-04 12:30:26.080 | DEBUG    | __main__:trainning:57 - Pred: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0]
+2022-11-04 12:30:26.081 | INFO     | __main__:run_experiment:81 - Fold 4 acc: 0.59 f1: 0.37
+2022-11-04 12:30:37.330 | DEBUG    | __main__:trainning:57 - Pred: [0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0
+ 0 0 0 0 0 0 0]
+2022-11-04 12:30:37.331 | INFO     | __main__:run_experiment:81 - Fold 5 acc: 0.59 f1: 0.42
+2022-11-04 12:30:48.196 | DEBUG    | __main__:trainning:57 - Pred: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0]
+2022-11-04 12:30:48.198 | INFO     | __main__:run_experiment:81 - Fold 6 acc: 0.55 f1: 0.35
+2022-11-04 12:30:48.198 | INFO     | __main__:run_experiment:83 - ------------------------------
+2022-11-04 12:30:48.198 | INFO     | __main__:run_experiment:84 - Summary: mean acc: 0.62 f1: 0.39
+2022-11-04 12:34:46.796 | INFO     | datasets:__init__:32 - read, processind and cread folds...
+2022-11-04 12:34:46.886 | INFO     | datasets:__process_data:104 - Class structure: Counter({'Mild_Moderate': 233, 'Severe': 115})
+2022-11-04 12:34:46.946 | INFO     | datasets:__process_data:160 - train: (290,), test: (58,)
+2022-11-04 12:34:46.946 | INFO     | datasets:__process_data:161 - ------------------------------
+2022-11-04 12:34:46.965 | INFO     | datasets:__init__:49 - Done, processing in 0:00:00.
+2022-11-04 12:34:58.897 | DEBUG    | __main__:trainning:57 - Pred: [1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 0 1 1 1 1 1]
+2022-11-04 12:34:58.898 | INFO     | __main__:run_experiment:81 - Fold 1 acc: 0.75 f1: 0.50
+2022-11-04 12:35:10.762 | DEBUG    | __main__:trainning:57 - Pred: [1 1 0 1 1 1 1 1 1 1 0 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1
+ 1 1 1 1 1 1 1]
+2022-11-04 12:35:10.763 | INFO     | __main__:run_experiment:81 - Fold 2 acc: 0.70 f1: 0.56
+2022-11-04 12:35:18.339 | DEBUG    | __main__:trainning:57 - Pred: [1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1]
+2022-11-04 12:35:18.340 | INFO     | __main__:run_experiment:81 - Fold 3 acc: 0.59 f1: 0.37
+2022-11-04 12:35:27.191 | DEBUG    | __main__:trainning:57 - Pred: [1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1]
+2022-11-04 12:35:27.192 | INFO     | __main__:run_experiment:81 - Fold 4 acc: 0.59 f1: 0.37
+2022-11-04 12:35:37.138 | DEBUG    | __main__:trainning:57 - Pred: [1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1
+ 1 1 1 1 1 1 1]
+2022-11-04 12:35:37.139 | INFO     | __main__:run_experiment:81 - Fold 5 acc: 0.57 f1: 0.36
+2022-11-04 12:35:48.304 | DEBUG    | __main__:trainning:57 - Pred: [1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 0 1]
+2022-11-04 12:35:48.306 | INFO     | __main__:run_experiment:81 - Fold 6 acc: 0.59 f1: 0.45
+2022-11-04 12:35:48.306 | INFO     | __main__:run_experiment:83 - ------------------------------
+2022-11-04 12:35:48.306 | INFO     | __main__:run_experiment:84 - Summary: mean acc: 0.63 f1: 0.44
+2022-11-04 12:36:14.395 | INFO     | datasets:__init__:32 - read, processind and cread folds...
+2022-11-04 12:36:14.484 | INFO     | datasets:__process_data:104 - Class structure: Counter({'Mild_Moderate': 233, 'Severe': 115})
+2022-11-04 12:36:14.544 | INFO     | datasets:__process_data:160 - train: (290,), test: (58,)
+2022-11-04 12:36:14.544 | INFO     | datasets:__process_data:161 - ------------------------------
+2022-11-04 12:36:14.561 | INFO     | datasets:__init__:49 - Done, processing in 0:00:00.
+2022-11-04 12:36:24.263 | DEBUG    | __main__:trainning:57 - Pred: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0]
+2022-11-04 12:36:24.264 | INFO     | __main__:run_experiment:81 - Fold 1 acc: 0.73 f1: 0.42
+2022-11-04 12:36:32.375 | DEBUG    | __main__:trainning:57 - Pred: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0]
+2022-11-04 12:36:32.376 | INFO     | __main__:run_experiment:81 - Fold 2 acc: 0.64 f1: 0.39
+2022-11-04 12:36:40.647 | DEBUG    | __main__:trainning:57 - Pred: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0]
+2022-11-04 12:36:40.648 | INFO     | __main__:run_experiment:81 - Fold 3 acc: 0.59 f1: 0.37
+2022-11-04 12:36:50.466 | DEBUG    | __main__:trainning:57 - Pred: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0]
+2022-11-04 12:36:50.467 | INFO     | __main__:run_experiment:81 - Fold 4 acc: 0.59 f1: 0.37
+2022-11-04 12:37:02.295 | DEBUG    | __main__:trainning:57 - Pred: [0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0
+ 0 1 0 0 0 0 0]
+2022-11-04 12:37:02.297 | INFO     | __main__:run_experiment:81 - Fold 5 acc: 0.57 f1: 0.44
+2022-11-04 12:37:10.685 | DEBUG    | __main__:trainning:57 - Pred: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0]
+2022-11-04 12:37:10.686 | INFO     | __main__:run_experiment:81 - Fold 6 acc: 0.55 f1: 0.35
+2022-11-04 12:37:10.686 | INFO     | __main__:run_experiment:83 - ------------------------------
+2022-11-04 12:37:10.686 | INFO     | __main__:run_experiment:84 - Summary: mean acc: 0.61 f1: 0.39
+2022-11-04 16:20:59.740 | INFO     | datasets:__init__:32 - read, processind and cread folds...
+2022-11-04 16:21:00.050 | INFO     | datasets:__process_data:104 - Class structure: Counter({'Mild_Moderate': 233, 'Severe': 115})
+2022-11-04 16:21:00.117 | INFO     | datasets:__process_data:160 - train: (290,), test: (58,)
+2022-11-04 16:21:00.117 | INFO     | datasets:__process_data:161 - ------------------------------
+2022-11-04 16:21:00.675 | INFO     | datasets:__init__:49 - Done, processing in 0:00:00.
+2022-11-04 16:21:16.561 | DEBUG    | __main__:trainning:57 - Pred: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 1 0 0 0 0 0]
+2022-11-04 16:21:16.575 | INFO     | __main__:run_experiment:81 - Fold 1 acc: 0.75 f1: 0.50
+2022-11-04 16:21:25.236 | DEBUG    | __main__:trainning:57 - Pred: [0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0]
+2022-11-04 16:21:25.237 | INFO     | __main__:run_experiment:81 - Fold 2 acc: 0.64 f1: 0.39
+2022-11-04 16:21:33.240 | DEBUG    | __main__:trainning:57 - Pred: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0]
+2022-11-04 16:21:33.241 | INFO     | __main__:run_experiment:81 - Fold 3 acc: 0.59 f1: 0.37
+2022-11-04 16:21:42.935 | DEBUG    | __main__:trainning:57 - Pred: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0]
+2022-11-04 16:21:42.936 | INFO     | __main__:run_experiment:81 - Fold 4 acc: 0.59 f1: 0.37
+2022-11-04 16:21:51.749 | DEBUG    | __main__:trainning:57 - Pred: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0]
+2022-11-04 16:21:51.750 | INFO     | __main__:run_experiment:81 - Fold 5 acc: 0.61 f1: 0.38
+2022-11-04 16:22:06.086 | DEBUG    | __main__:trainning:57 - Pred: [0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 1 0]
+2022-11-04 16:22:06.087 | INFO     | __main__:run_experiment:81 - Fold 6 acc: 0.64 f1: 0.54
+2022-11-04 16:22:06.087 | INFO     | __main__:run_experiment:83 - ------------------------------
+2022-11-04 16:22:06.087 | INFO     | __main__:run_experiment:84 - Summary: mean acc: 0.64 f1: 0.43
+2022-11-07 12:23:15.519 | INFO     | datasets:__init__:32 - read, processind and cread folds...
+2022-11-07 12:23:15.588 | INFO     | datasets:__process_data:104 - Class structure: Counter({'Mild_Moderate': 233, 'Severe': 115})
+2022-11-07 12:23:15.661 | INFO     | datasets:__process_data:160 - train: (290,), test: (58,)
+2022-11-07 12:23:15.661 | INFO     | datasets:__process_data:161 - ------------------------------
+2022-11-07 12:23:15.930 | INFO     | datasets:__init__:49 - Done, processing in 0:00:00.
+2022-11-07 12:23:30.250 | INFO     | __main__:run_experiment:80 - Fold 1 acc: 0.73 f1: 0.42
+2022-11-07 12:23:57.976 | INFO     | __main__:run_experiment:80 - Fold 2 acc: 0.66 f1: 0.40
+2022-11-07 12:24:11.754 | INFO     | __main__:run_experiment:80 - Fold 3 acc: 0.59 f1: 0.37
+2022-11-07 12:24:26.720 | INFO     | __main__:run_experiment:80 - Fold 4 acc: 0.59 f1: 0.37
+2022-11-07 12:24:44.398 | INFO     | __main__:run_experiment:80 - Fold 5 acc: 0.57 f1: 0.36
+2022-11-07 12:25:01.883 | INFO     | __main__:run_experiment:80 - Fold 6 acc: 0.55 f1: 0.35
+2022-11-07 12:25:01.883 | INFO     | __main__:run_experiment:82 - ------------------------------
+2022-11-07 12:25:01.883 | INFO     | __main__:run_experiment:83 - Summary: mean acc: 0.61 f1: 0.38
+2022-11-07 12:30:33.492 | INFO     | datasets:__init__:32 - read, processind and cread folds...
+2022-11-07 12:30:33.559 | INFO     | datasets:__process_data:104 - Class structure: Counter({'Mild_Moderate': 233, 'Severe': 115})
+2022-11-07 12:30:33.631 | INFO     | datasets:__process_data:160 - train: (290,), test: (58,)
+2022-11-07 12:30:33.631 | INFO     | datasets:__process_data:161 - ------------------------------
+2022-11-07 12:30:33.894 | INFO     | datasets:__init__:49 - Done, processing in 0:00:00.
+2022-11-07 12:30:46.955 | INFO     | __main__:run_experiment:80 - Fold 1 acc: 0.73 f1: 0.42
+2022-11-07 12:31:01.862 | INFO     | __main__:run_experiment:80 - Fold 2 acc: 0.66 f1: 0.40
+2022-11-07 12:31:13.366 | INFO     | __main__:run_experiment:80 - Fold 3 acc: 0.59 f1: 0.37
+2022-11-07 12:31:31.638 | INFO     | __main__:run_experiment:80 - Fold 4 acc: 0.59 f1: 0.37
+2022-11-07 12:31:59.555 | INFO     | __main__:run_experiment:80 - Fold 5 acc: 0.61 f1: 0.38
+2022-11-07 12:32:28.432 | INFO     | __main__:run_experiment:80 - Fold 6 acc: 0.55 f1: 0.35
+2022-11-07 12:32:28.432 | INFO     | __main__:run_experiment:82 - ------------------------------
+2022-11-07 12:32:28.433 | INFO     | __main__:run_experiment:83 - Summary: mean acc: 0.62 f1: 0.38
+2022-11-11 13:28:27.833 | INFO     | datasets:__init__:32 - read, processind and cread folds...
+2022-11-11 13:28:27.901 | INFO     | datasets:__process_data:104 - Class structure: Counter({'Mild_Moderate': 233, 'Severe': 115})
+2022-11-11 13:28:27.972 | INFO     | datasets:__process_data:160 - train: (290,), test: (58,)
+2022-11-11 13:28:27.972 | INFO     | datasets:__process_data:161 - ------------------------------
+2022-11-11 13:28:28.237 | INFO     | datasets:__init__:49 - Done, processing in 0:00:00.
+2022-11-11 13:28:46.470 | INFO     | __main__:run_experiment:80 - Fold 1 acc: 0.73 f1: 0.42
+2022-11-11 13:29:18.426 | INFO     | __main__:run_experiment:80 - Fold 2 acc: 0.66 f1: 0.45
+2022-11-11 13:29:36.322 | INFO     | __main__:run_experiment:80 - Fold 3 acc: 0.59 f1: 0.37
+2022-11-11 13:29:49.446 | INFO     | __main__:run_experiment:80 - Fold 4 acc: 0.59 f1: 0.37
+2022-11-11 13:30:15.123 | INFO     | __main__:run_experiment:80 - Fold 5 acc: 0.57 f1: 0.44
+2022-11-11 13:30:34.359 | INFO     | __main__:run_experiment:80 - Fold 6 acc: 0.55 f1: 0.35
+2022-11-11 13:30:34.359 | INFO     | __main__:run_experiment:82 - ------------------------------
+2022-11-11 13:30:34.359 | INFO     | __main__:run_experiment:83 - Summary: mean acc: 0.61 f1: 0.40
+2022-11-11 13:31:29.282 | INFO     | datasets:__init__:32 - read, processind and cread folds...
+2022-11-11 13:31:29.350 | INFO     | datasets:__process_data:104 - Class structure: Counter({'Mild_Moderate': 233, 'Severe': 115})
+2022-11-11 13:31:29.422 | INFO     | datasets:__process_data:160 - train: (290,), test: (58,)
+2022-11-11 13:31:29.422 | INFO     | datasets:__process_data:161 - ------------------------------
+2022-11-11 13:31:29.679 | INFO     | datasets:__init__:49 - Done, processing in 0:00:00.
+2022-11-11 13:31:49.870 | INFO     | __main__:run_experiment:80 - Fold 1 acc: 0.75 f1: 0.56
+2022-11-11 13:32:16.693 | INFO     | __main__:run_experiment:80 - Fold 2 acc: 0.66 f1: 0.40
+2022-11-11 13:32:27.581 | INFO     | __main__:run_experiment:80 - Fold 3 acc: 0.59 f1: 0.37
+2022-11-11 13:32:45.717 | INFO     | __main__:run_experiment:80 - Fold 4 acc: 0.59 f1: 0.37
+2022-11-11 13:33:04.480 | INFO     | __main__:run_experiment:80 - Fold 5 acc: 0.55 f1: 0.45
+2022-11-11 13:33:25.787 | INFO     | __main__:run_experiment:80 - Fold 6 acc: 0.55 f1: 0.35
+2022-11-11 13:33:25.787 | INFO     | __main__:run_experiment:82 - ------------------------------
+2022-11-11 13:33:25.788 | INFO     | __main__:run_experiment:83 - Summary: mean acc: 0.61 f1: 0.42
+2022-11-11 13:35:03.057 | INFO     | datasets:__init__:32 - read, processind and cread folds...
+2022-11-11 13:35:03.126 | INFO     | datasets:__process_data:104 - Class structure: Counter({'Mild_Moderate': 233, 'Severe': 115})
+2022-11-11 13:35:03.198 | INFO     | datasets:__process_data:160 - train: (290,), test: (58,)
+2022-11-11 13:35:03.198 | INFO     | datasets:__process_data:161 - ------------------------------
+2022-11-11 13:35:03.456 | INFO     | datasets:__init__:49 - Done, processing in 0:00:00.
+2022-11-11 13:35:16.914 | INFO     | __main__:run_experiment:80 - Fold 1 acc: 0.73 f1: 0.42
+2022-11-11 13:35:32.959 | INFO     | __main__:run_experiment:80 - Fold 2 acc: 0.66 f1: 0.40
+2022-11-11 13:35:43.527 | INFO     | __main__:run_experiment:80 - Fold 3 acc: 0.59 f1: 0.37
+2022-11-11 13:35:57.137 | INFO     | __main__:run_experiment:80 - Fold 4 acc: 0.59 f1: 0.37
+2022-11-11 13:36:09.547 | INFO     | __main__:run_experiment:80 - Fold 5 acc: 0.61 f1: 0.38
+2022-11-11 13:36:24.381 | INFO     | __main__:run_experiment:80 - Fold 6 acc: 0.55 f1: 0.35
+2022-11-11 13:36:24.382 | INFO     | __main__:run_experiment:82 - ------------------------------
+2022-11-11 13:36:24.382 | INFO     | __main__:run_experiment:83 - Summary: mean acc: 0.62 f1: 0.38
+2022-11-11 13:52:38.565 | INFO     | datasets:__init__:32 - read, processind and cread folds...
+2022-11-11 13:52:38.633 | INFO     | datasets:__process_data:104 - Class structure: Counter({'Mild_Moderate': 233, 'Severe': 115})
+2022-11-11 13:52:38.704 | INFO     | datasets:__process_data:160 - train: (290,), test: (58,)
+2022-11-11 13:52:38.705 | INFO     | datasets:__process_data:161 - ------------------------------
+2022-11-11 13:52:38.959 | INFO     | datasets:__init__:49 - Done, processing in 0:00:00.
+2022-11-11 13:52:54.231 | INFO     | __main__:run_experiment:80 - Fold 1 acc: 0.73 f1: 0.42
+2022-11-11 13:53:08.445 | INFO     | __main__:run_experiment:80 - Fold 2 acc: 0.66 f1: 0.40
+2022-11-11 13:53:21.376 | INFO     | __main__:run_experiment:80 - Fold 3 acc: 0.59 f1: 0.37
+2022-11-11 13:53:36.940 | INFO     | __main__:run_experiment:80 - Fold 4 acc: 0.59 f1: 0.37
+2022-11-11 13:53:46.915 | INFO     | __main__:run_experiment:80 - Fold 5 acc: 0.61 f1: 0.38
+2022-11-11 13:54:00.105 | INFO     | __main__:run_experiment:80 - Fold 6 acc: 0.55 f1: 0.35
+2022-11-11 13:54:00.106 | INFO     | __main__:run_experiment:82 - ------------------------------
+2022-11-11 13:54:00.106 | INFO     | __main__:run_experiment:83 - Summary: mean acc: 0.62 f1: 0.38
+2022-11-11 14:00:12.111 | INFO     | datasets:__init__:32 - read, processind and cread folds...
+2022-11-11 14:00:12.180 | INFO     | datasets:__process_data:104 - Class structure: Counter({'Mild_Moderate': 233, 'Severe': 115})
+2022-11-11 14:00:12.252 | INFO     | datasets:__process_data:160 - train: (290,), test: (58,)
+2022-11-11 14:00:12.253 | INFO     | datasets:__process_data:161 - ------------------------------
+2022-11-11 14:00:12.507 | INFO     | datasets:__init__:49 - Done, processing in 0:00:00.
+2022-11-11 14:00:31.896 | INFO     | __main__:run_experiment:80 - Fold 1 acc: 0.73 f1: 0.42
+2022-11-11 14:00:48.429 | INFO     | __main__:run_experiment:80 - Fold 2 acc: 0.64 f1: 0.39
+2022-11-11 14:00:58.510 | INFO     | __main__:run_experiment:80 - Fold 3 acc: 0.59 f1: 0.37
+2022-11-11 14:01:15.278 | INFO     | __main__:run_experiment:80 - Fold 4 acc: 0.59 f1: 0.37
+2022-11-11 14:01:30.488 | INFO     | __main__:run_experiment:80 - Fold 5 acc: 0.61 f1: 0.38
+2022-11-11 14:01:48.077 | INFO     | __main__:run_experiment:80 - Fold 6 acc: 0.55 f1: 0.35
+2022-11-11 14:01:48.078 | INFO     | __main__:run_experiment:82 - ------------------------------
+2022-11-11 14:01:48.078 | INFO     | __main__:run_experiment:83 - Summary: mean acc: 0.62 f1: 0.38
+2022-11-11 14:04:58.439 | INFO     | datasets:__init__:32 - read, processind and cread folds...
+2022-11-11 14:04:58.506 | INFO     | datasets:__process_data:104 - Class structure: Counter({'Mild_Moderate': 233, 'Severe': 115})
+2022-11-11 14:04:58.578 | INFO     | datasets:__process_data:160 - train: (290,), test: (58,)
+2022-11-11 14:04:58.578 | INFO     | datasets:__process_data:161 - ------------------------------
+2022-11-11 14:04:58.834 | INFO     | datasets:__init__:49 - Done, processing in 0:00:00.
+2022-11-11 14:05:17.079 | INFO     | __main__:run_experiment:80 - Fold 1 acc: 0.75 f1: 0.50
+2022-11-11 14:05:28.766 | INFO     | __main__:run_experiment:80 - Fold 2 acc: 0.66 f1: 0.40
+2022-11-11 14:05:42.993 | INFO     | __main__:run_experiment:80 - Fold 3 acc: 0.59 f1: 0.37
+2022-11-11 14:06:07.864 | INFO     | __main__:run_experiment:80 - Fold 4 acc: 0.59 f1: 0.37
+2022-11-11 14:06:20.970 | INFO     | __main__:run_experiment:80 - Fold 5 acc: 0.61 f1: 0.38
+2022-11-11 14:06:43.394 | INFO     | __main__:run_experiment:80 - Fold 6 acc: 0.55 f1: 0.35
+2022-11-11 14:06:43.395 | INFO     | __main__:run_experiment:82 - ------------------------------
+2022-11-11 14:06:43.395 | INFO     | __main__:run_experiment:83 - Summary: mean acc: 0.62 f1: 0.40
+2022-11-11 14:11:19.784 | INFO     | datasets:__init__:32 - read, processind and cread folds...
+2022-11-11 14:11:19.852 | INFO     | datasets:__process_data:104 - Class structure: Counter({'Mild_Moderate': 233, 'Severe': 115})
+2022-11-11 14:11:19.924 | INFO     | datasets:__process_data:160 - train: (290,), test: (58,)
+2022-11-11 14:11:19.924 | INFO     | datasets:__process_data:161 - ------------------------------
+2022-11-11 14:11:20.186 | INFO     | datasets:__init__:49 - Done, processing in 0:00:00.
+2022-11-11 14:11:36.986 | INFO     | __main__:run_experiment:80 - Fold 1 acc: 0.73 f1: 0.42
+2022-11-11 14:11:53.924 | INFO     | __main__:run_experiment:80 - Fold 2 acc: 0.66 f1: 0.40
+2022-11-11 14:12:04.580 | INFO     | __main__:run_experiment:80 - Fold 3 acc: 0.59 f1: 0.37
+2022-11-11 14:12:18.508 | INFO     | __main__:run_experiment:80 - Fold 4 acc: 0.59 f1: 0.37
+2022-11-11 14:12:40.393 | INFO     | __main__:run_experiment:80 - Fold 5 acc: 0.59 f1: 0.42
+2022-11-11 14:12:56.582 | INFO     | __main__:run_experiment:80 - Fold 6 acc: 0.55 f1: 0.35
+2022-11-11 14:12:56.583 | INFO     | __main__:run_experiment:82 - ------------------------------
+2022-11-11 14:12:56.583 | INFO     | __main__:run_experiment:83 - Summary: mean acc: 0.62 f1: 0.39
