@@ -16,7 +16,7 @@ Graph Neural Networks: Insights into Hemophilia](https://ieeexplore.ieee.org/abs
 ### How to run: 
 
 ```python 
-python src/experiment_gnn.py
+python src/hemo_gnn.py
 ```
 
 ---
