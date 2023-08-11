@@ -7,9 +7,9 @@ Graph Neural Networks: Insights into Hemophilia](https://ieeexplore.ieee.org/abs
 
 ### Project structure
 
-- `data`: datasets, train logs and results.
-- `models`: python scripts with models
-- `src`: python scrips with experiments pipeline
+- `data`: datasets, train logs and results;
+- `models`: python scripts with models;
+- `src`: python scrips with experiments pipeline.
 
 ----
 
